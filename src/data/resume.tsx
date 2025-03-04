@@ -17,7 +17,8 @@ export const DATA = {
 "C",  
 "JavaScript",  
 "Python",  
-
+"Django",
+"Flask",
 "HTML",  
 "CSS",  
 "Bootstrap",  
